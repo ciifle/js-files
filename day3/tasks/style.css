@@ -1,0 +1,18 @@
+.counter{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    color: #fff;
+    font-size: 30px;
+}
+
+#great-msg, #c-msg, #name-msg, #rprt-msg, #html-msg, #css-msg ,#js-msg, #per-msg{
+    font-size: 22px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+
+}
